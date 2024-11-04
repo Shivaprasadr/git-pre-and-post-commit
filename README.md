@@ -1,2 +1,2 @@
 # git-pre-and-post-commit
-committ2
+committ3
